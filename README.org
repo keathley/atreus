@@ -42,14 +42,14 @@ numpad-style arrangement under the right hand:
 
  :    !     @     {     }     |       ||     pgup    7     8     9    *
  :    #     $     (     )     `       ||     pgdn    4     5     6    +
- :    %     ^     [     ]     ~       ||       \     1     2     3    ?
+ :    %     ^     [     ]     ~       ||       &     1     2     3    \
  :   L2  insert super shift bksp ctrl || alt space   fn    .     0    =
 
 The =L2= key switches it to the function layer, and tapping =L0= here
 brings it back to the first layer.
 
- :  insert home    ↑    end  pgup     ||       ↑     F7    F8    F9   F10
- :    del   ←      ↓     →   pgdn     ||       ↓     F4    F5    F6   F11
+ :   home   ↑    end  insert  pgup    ||       ↑     F7    F8    F9   F10
+ :    ←     ↓     →    del    pgdn    ||       ↓     F4    F5    F6   F11
  :                                    ||             F1    F2    F3   F12
  :              super shift bksp ctrl || alt space   L0             reset
 
